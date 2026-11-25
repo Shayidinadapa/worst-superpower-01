@@ -1,5 +1,9 @@
 # worst-superpower-01
 
+[![make.fun · u-suroto-worst-superpower-461dcdbe](https://make.fun/badge/u-suroto-worst-superpower-461dcdbe.svg)](https://make.fun/bounty/u-suroto-worst-superpower-461dcdbe?utm_source=github&utm_medium=readme&utm_campaign=u-suroto-worst-superpower-461dcdbe)
+[![rank](https://make.fun/badge/u-suroto-worst-superpower-461dcdbe/Shayidinadapa/worst-superpower-01/rank.svg)](https://make.fun/bounty/u-suroto-worst-superpower-461dcdbe/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-suroto-worst-superpower-461dcdbe)
+[![reward](https://make.fun/badge/u-suroto-worst-superpower-461dcdbe/Shayidinadapa/worst-superpower-01/reward.svg)](https://make.fun/bounty/u-suroto-worst-superpower-461dcdbe?utm_source=github&utm_medium=readme&utm_campaign=u-suroto-worst-superpower-461dcdbe)
+
 [make.fun bounty: Worst Superpower](https://make.fun/c/u-suroto-worst-superpower-461dcdbe) · [MIT License](LICENSE) · [Shayidinadapa on GitHub](https://github.com/Shayidinadapa)
 
 A make.fun entry for the **Worst Superpower** bounty: invent the most
